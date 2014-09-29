@@ -31,12 +31,16 @@ border: 1px solid #2E2E2E;
 ol.numba a{
 
 font-weight: bold;
+text-decoration: none;
 color: #000;
 }
 h1{
 font-size: 20px;
 }
+.logo{
+	padding-right: 30px;
 
+}
 .title{
 font-size: 25px;
 }
@@ -82,7 +86,7 @@ color: #FFF;
 
 
 #content{
-	background-color:#282828;/*url(../Image/background-made-in-nyc.jpg)*/
+	background-color:#282828;
 }
 
 
@@ -139,29 +143,59 @@ overflow: hidden;
 -o-box-sizing: border-box;
 -ms-box-sizing: border-box;
 box-sizing: border-box;
+
 }
+
+.hover{
+position: absolute;
+top:0;
+left:0;
+width:100%;
+height: 100%;
+background-color: #660;
+opacity: 0;
+}
+
+ul.startups li:hover .hover{
+	opacity: 0.8;
+	
+
+}
+
+.hover a h2{
+	background-color: #000;
+	position: relative;
+	
+
+	font-size: 20px;
+
+}
+.view a{
+	text-decoration: none;
+}
+
+
 
 ul.startups li img{
 position: relative;
 display: inline-block;
-max-width: 100%;
+max-width: 50%;
 vertical-align: middle;
 padding: 0px;
-max-height: 130px;
+max-height: 95px;
 border-width: 0px 1px 1px;
 border-style: none solid;
 
 }
-/*ul.startups li:hover{
-border: #660;
-}*/
+
+
 
 @media only screen and (min-width:360px) and (max-width:719px){
 ul.startups li{
 width: 50%;
 }
 
-	ul.startups li:nth-child(even){
+  n ul.startups li:nth-child(even){
 		border-right: none;
 	}
 	
@@ -171,7 +205,6 @@ width: 50%;
 	ul.startups li{
 		width: 33.33%;
 	}
-
 	
 }
 
@@ -198,10 +231,10 @@ min-width: 994px;
 
 }
 
-.apply {
+/*.apply {
 font-size: 14px;
 line-height: 37px;
-background: url(../Image/showing.png) no-repeat scroll right top transparent;
+background:url(../Image/showing.png) no-repeat scroll right top transparent;
 box-shadow: 0px 0px 1px #797979;
 color: #FFF;
 margin-left: 20px;
@@ -212,11 +245,12 @@ vertical-align: middle;
 margin-bottom: 30px;
 display: inline-block;
 
-}
+}*/
 
-.apply:hover {
+.want:hover {
 color: #FFF;
 background-position: right -39px;
+background:url(../Image/showing.png) no-repeat scroll right top transparent;
 }
 
 section#logo1{
@@ -288,14 +322,4 @@ text-align: left;
 li a{
 	color: #FFF;
 }
-
-
-
-
-
-
-
-
-
-
 
