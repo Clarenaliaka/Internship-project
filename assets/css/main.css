@@ -1,0 +1,325 @@
+body{
+padding:0;
+margin: 0;
+font-family: arial, helvetica, serif;
+/*background-color:#FFF;*/
+}
+
+#header{
+/*background: url:url(../Image/time.gif) repeat-x scroll left top transparent;*/
+padding-top: 30px;
+margin: 0px auto;
+min-width: 994px;
+display: block;
+}
+
+#wrapper{ 
+text-align: left;
+background: #3b3b3b;
+background-image:url(../Image/shadow.png) repeat-x scroll left bottom transparent;
+max-width: 833px;
+padding: 30px;
+margin: 0 auto;
+padding: 0 25px 55px;
+font-size: 14px;
+background: none repeat scroll 0% 0% #3B3B3B;
+box-shadow: 0px 0px 10px #262626 inset;
+margin: 0px auto;
+border: 1px solid #2E2E2E;
+}
+
+ol.numba a{
+
+font-weight: bold;
+text-decoration: none;
+color: #000;
+}
+h1{
+font-size: 20px;
+}
+.logo{
+	padding-right: 30px;
+
+}
+.title{
+font-size: 25px;
+}
+
+#top{
+font-size: 15px;
+}
+
+ul li{
+font-size: 15px;
+font-weight: bold;
+color: #000;
+}
+
+article ol {
+text-align: left;
+color: #CCC;
+font-size: 18px;
+line-height: 2.2em;
+width: 715px;
+margin: 0px auto;
+padding: 35px 10px;
+}
+#wrapper li{
+	color: #CCC;
+}
+
+ul{
+display: block;
+color: #666;
+margin: 0.1em 0px 0.25em;
+}
+
+label{
+cursor: pointer;
+}
+
+h2{
+font: 24px/1.4em "Lucida Grande","Lucida Sans","Lucida Sans Unicode",sans-serif;
+text-transform: none;
+color: #FFF;
+}
+
+
+#content{
+	background-color:#282828;
+}
+
+
+.made{
+max-width: 699px;
+margin-right: 20px;
+}
+.want{
+background:url(../Image/button-made-in-nyc.png) no-repeat scroll right top transparent;
+color: #FFF;
+font-size: 14px;
+line-height: 37px;
+box-shadow: 0px 0px 1px #797979;
+margin-left: 20px;
+padding: 0px 50px 0px 20px;
+border: 1px solid #3B3B3B;
+border-radius: 30px;
+border-radius: 30px;
+vertical-align: middle;
+margin-bottom: 30px;
+display: inline-block;
+}
+
+.want:hover {
+color: #FFF;
+background-position: right -39px;
+}
+
+.clearfix:after{
+content: " ";
+display: table-cell;
+clear: both;
+}
+
+ul.startups{
+list-style: none;
+margin: 0;
+padding: 0;
+min-height: 100px;
+}
+
+ul.startups li{
+position: relative;
+display: block;
+height: 231px;
+line-height: 231px;
+text-align: center;
+border-bottom: 1px solid #ccc;
+border-right: 1px solid #ccc;
+float: left;
+overflow: hidden;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+-o-box-sizing: border-box;
+-ms-box-sizing: border-box;
+box-sizing: border-box;
+
+}
+
+.hover{
+position: absolute;
+top:0;
+left:0;
+width:100%;
+height: 100%;
+background-color: #660;
+opacity: 0;
+}
+
+ul.startups li:hover .hover{
+	opacity: 0.8;
+	
+
+}
+
+.hover a h2{
+	background-color: #000;
+	position: relative;
+	
+
+	font-size: 20px;
+
+}
+.view a{
+	text-decoration: none;
+}
+
+
+
+ul.startups li img{
+position: relative;
+display: inline-block;
+max-width: 50%;
+vertical-align: middle;
+padding: 0px;
+max-height: 95px;
+border-width: 0px 1px 1px;
+border-style: none solid;
+
+}
+
+
+
+@media only screen and (min-width:360px) and (max-width:719px){
+ul.startups li{
+width: 50%;
+}
+
+  n ul.startups li:nth-child(even){
+		border-right: none;
+	}
+	
+}
+
+@media only screen and (min-width:720px) and (max-width:1023px){
+	ul.startups li{
+		width: 33.33%;
+	}
+	
+}
+
+@media only screen and (min-width:1024px){
+	ul.startups li{
+		width: 25%;
+	}
+
+	ul.startups li:nth-child(4n+4){
+	
+	}
+}
+
+
+section#logo {
+background-image:#132530;url(../Image/background-made-in-nyc.jpg);
+width: 100%;
+text-align: center;
+vertical-align: middle;
+display: inline-block;
+padding-top: 30px;
+margin: 0px auto;
+min-width: 994px;
+
+}
+
+/*.apply {
+font-size: 14px;
+line-height: 37px;
+background:url(../Image/showing.png) no-repeat scroll right top transparent;
+box-shadow: 0px 0px 1px #797979;
+color: #FFF;
+margin-left: 20px;
+padding: 0px 50px 0px 20px;
+border: 1px solid #3B3B3B;
+border-radius: 30px;
+vertical-align: middle;
+margin-bottom: 30px;
+display: inline-block;
+
+}*/
+
+.want:hover {
+color: #FFF;
+background-position: right -39px;
+background:url(../Image/showing.png) no-repeat scroll right top transparent;
+}
+
+section#logo1{
+background-color:#CE2D19;
+font-size: 24px;
+line-height: 1.5em;
+vertical-align: 35px;
+margin-right: 35px;
+display: inline-block;
+color: #FFF;
+width: 100%;
+padding: auto;
+text-align: center;  
+}
+
+.line{
+color: #FFF;
+}
+
+.subline{
+color: #FFF;
+}
+
+nav {
+    color: #FFF;
+    background: none repeat scroll 0% 0% #e3e730;
+    padding: 20px 0px;
+    display: block;
+}
+nav a.grid{
+	background: no-repeat.scroll 0% 0% #9E1F09;
+	box-shadow:0px 0px 1px #9E1F09;
+	margin-left: 15px;
+	border: 1px #9E1F09 ;
+}
+nav a.list:hover{
+background: no-repeat.scroll 0% 0% #9E1F09;
+	box-shadow:0px 0px 1px #9E1F09;
+	margin-left: 15px;
+	border: 1px #9E1F09 ;
+}
+
+nav a.list{
+	margin-left: 15px;
+}
+
+.hiring {
+top: -80px;
+right: 1px;
+width: 76px;
+height: 76px;
+position: absolute;
+
+}
+
+ul{
+	display: block;
+	-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+-webkit-padding-start: 40px;
+font-size: 14px;
+color: #CCC;
+text-align: left;
+
+}
+
+li a{
+	color: #FFF;
+}
+

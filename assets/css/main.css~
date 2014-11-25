@@ -1,0 +1,379 @@
+body{
+	padding:0;
+	margin: 0;
+	font-family: arial, helvetica, serif;
+	background-color:#FFF;
+	font-size: 20px;
+}
+
+#header{
+background: url:url(../Image/time.gif) repeat-x scroll left top transparent;
+padding-top: 30px;
+margin: 0px auto;
+min-width: 994px;
+display: block;
+}
+.body{
+padding: 0.5em 1em;
+background-color: #E8EEF7;
+}
+
+#wrapper{ 
+color: #ccc;
+text-align: left;
+background: #3b3b3b;
+background-image:url(../Image/shadow.png) repeat-x scroll left bottom transparent;
+max-width: 833px;
+padding: 30px;
+margin: 0 auto;
+padding: 0 25px 55px;
+font-size: 14px;
+background: none repeat scroll 0% 0% #3B3B3B;
+box-shadow: 0px 0px 10px #262626 inset;
+margin: 0px auto;
+border: 1px solid #2E2E2E;
+}
+
+#wrapper1{
+background: none repeat scroll 0% 0% #FFF;
+margin: 0px auto;
+width: 989px;
+height: 989px;
+border-right: 1px solid #BEBEBE;
+border-left: 1px solid #BEBEBE;
+text-align: left;
+}
+
+
+#form{
+width: 25em;
+background-color: #fff;
+border: 1px solid #ccc;
+margin: 0 auto;
+padding: 1em;
+display: block;
+}
+
+.choice{
+color: #000;
+}
+h1{
+	font-size: 20px;
+}
+.title{
+	font-size: 25px;
+}
+#top{
+	font-size: 15px;
+}
+#details{
+font-size: 15px;
+display: block;
+font-weight: bold;
+
+}
+span{
+color: #C43B1D;
+margin: 0px;
+padding: 0px;
+border: 0px none;
+}
+
+ input{
+ 	display: block;
+color: #666;
+margin: 0.1em 0px 0.25em;
+ }
+label{
+	cursor: pointer;
+}
+
+h2{
+font: 24px/1.4em "Lucida Grande","Lucida Sans","Lucida Sans Unicode",sans-serif;
+text-transform: none;
+color: #FFF;
+}
+ol{
+padding-left: 25px;
+padding-bottom: 1.5em;
+}
+
+
+h3{
+}
+
+#content{
+	background-image:url(../Image/background-made-in-nyc.jpg);
+}
+
+article{
+
+}
+.made{
+	max-width: 699px;
+	margin-right: 20px;
+}
+.want{
+background:url(../Image/showing.png) no-repeat scroll right top transparent;
+color: #FFF;
+font-size: 14px;
+line-height: 37px;
+box-shadow: 0px 0px 1px #797979;
+margin-left: 20px;
+padding: 0px 50px 0px 20px;
+border: 1px solid #3B3B3B;
+border-radius: 30px;
+border-radius: 30px;
+vertical-align: middle;
+margin-bottom: 30px;
+display: inline-block;
+}
+
+.want:hover {
+    color: #FFF;
+    background-position: right -39px;
+}
+
+.clearfix:after{
+	content: " ";
+	display: table-cell;
+	clear: both;
+}
+ul.startups{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	min-height: 100px;
+}
+ul.startups li{
+	position: relative;
+	display: block;
+	width: 100%;
+	height: 231px;
+	line-height: 231px;
+	text-align: center;
+	border-bottom: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+
+	float: left;
+
+	overflow: hidden;
+
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+ul.startups li img{
+	position: relative;
+	display: inline-block;
+	max-width: 100%;
+	vertical-align: middle;
+	padding: 50px 0px;
+max-height: 130px;
+border-width: 0px 1px 1px;
+border-style: none solid;
+
+
+}
+
+ul.startups li:hover{
+	border: #660;
+}
+
+
+@media only screen and (min-width:360px) and (max-width:719px){
+	ul.startups li{
+		width: 50%;
+	}
+
+	ul.startups li:nth-child(even){
+		border-right: none;
+	}
+	
+}
+
+@media only screen and (min-width:720px) and (max-width:1023px){
+	ul.startups li{
+		width: 33.33%;
+	}
+
+	
+}
+
+@media only screen and (min-width:1024px){
+	ul.startups li{
+		width: 25%;
+	}
+
+	ul.startups li:nth-child(4n+4){
+		
+	}
+}
+
+
+section#logo {
+background-image:url(../Image/background-made-in-nyc.jpg);
+width: 100%;
+text-align: center;
+vertical-align: middle;
+display: inline-block;
+padding-top: 30px;
+margin: 0px auto;
+min-width: 994px;
+
+}
+
+.apply {
+font-size: 14px;
+line-height: 37px;
+background: url(../Image/button-made-in-nyc.png) no-repeat scroll right top transparent;
+box-shadow: 0px 0px 1px #797979;
+color: #FFF;
+margin-left: 20px;
+padding: 0px 50px 0px 20px;
+border: 1px solid #3B3B3B;
+border-radius: 30px;
+vertical-align: middle;
+margin-bottom: 30px;
+display: inline-block;
+
+}
+
+.apply:hover {
+    color: #FFF;
+    background-position: right -39px;
+}
+
+section#logo1{
+background-color:#CE2D19;
+	font-size: 24px;
+	line-height: 1.5em;
+	vertical-align: 35px;
+	margin-right: 35px;
+	display: inline-block;
+	color: #FFF;
+	width: 100%;
+	padding: auto;
+	text-align: center;
+   
+}
+.line{
+		color: #FFF;
+}
+
+.subline{
+		color: #FFF;
+}
+
+nav {
+    color: #FFF;
+    background: none repeat scroll 0% 0% #A82109;
+    padding: 20px 0px;
+    display: block;
+}
+nav a.grid{
+	background: no-repeat.scroll 0% 0% #9E1F09;
+	box-shadow:0px 0px 1px #9E1F09;
+	margin-left: 15px;
+	border: 1px #9E1F09 ;
+}
+nav a.list:hover{
+background: no-repeat.scroll 0% 0% #9E1F09;
+	box-shadow:0px 0px 1px #9E1F09;
+	margin-left: 15px;
+	border: 1px #9E1F09 ;
+}
+
+nav a.list{
+	margin-left: 15px;
+}
+
+.hiring {
+top: -60px;
+right: 1px;
+width: 76px;
+height: 76px;
+position: absolute;
+
+}
+
+ul{
+	display: block;
+	-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+-webkit-padding-start: 40px;
+font-size: 14px;
+color: #CCC;
+text-align: left;
+list-style: none outside none;
+}
+
+li a{
+	color: #fff;
+}
+
+#introduction {
+    color: #FFF;
+    background:url(../Image/intro.png)  repeat scroll left top transparent;
+    padding: 35px 40px;
+    clear: both;
+    position: relative;
+    z-index: 0;
+}
+
+#introduction p {
+    font-size: 32px;
+    font-family: "droid-serif",Georgia,Times,serif;
+    line-height: 1.3em;
+    padding-bottom: 0px;
+    width: 550px;
+}
+.leafright{
+float: right;
+background:url(../Image/leaf-right.png)  repeat scroll left top transparent;
+padding: 18px 38px 33px 18px;
+color:#fff;
+}
+#introduction .leafright{
+width: 342px;
+top: 50%;
+right: -20px;
+padding-right: 0px;
+margin-top: -70px;
+position: absolute;
+}
+
+#introduction .leafright a{font: italic 600 26px/1em "ff-din-web-condensed",Helvetica,Arial,sans-serif;
+color: #FFF;
+background:url(../Image/arrow-intro right.png)no-repeat scroll -5px center transparent;
+text-transform: uppercase;
+padding: 5px 0px 5px 30px;
+display: block;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
