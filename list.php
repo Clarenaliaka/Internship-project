@@ -28,7 +28,7 @@ $startups = $db->get('start');
 		
 	<li>
 	
-		<a href="<?php echo $startups['website'];?>" target="_blank"> 
+		<a href="<?php echo $startup['website'];?>" target="_blank"> 
 		<?php echo $startup['company_name']; ?></a>
 	</li>
 	

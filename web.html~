@@ -1,0 +1,41 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>nairobi</title>
+<link href="assets/css/main.css" rel="stylesheet" type="text/css">   
+<link href="assets/css/nomalize.css" rel="stylesheet" type="text/css">
+<link href="assets/fonts/font-awesome-4.1.0/css/font-awesome.css" rel="stylesheet" type="text/css"> 
+
+</head>
+
+<div id="wrapper1">
+<body class="body">
+<a href="#" class="logo met"></a><img src="assets/Image/logo met.png" alt=" " />
+
+    <div id="introduction">
+				 <p>NY Tech Meetup is a non-profit organization with over 40,000 members
+				  supporting the New York technology community.</p>
+				  
+       <div class="leafright">
+	        <a href="#">Become A Member</a>
+              <a href="#">Get Tickets</a>
+	              <a href="#">Apply to Present</a>
+          </div> 	
+     </div>	  
+</div>
+   </form> 
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+

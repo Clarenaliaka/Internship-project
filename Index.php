@@ -32,8 +32,10 @@ $startups = $db-> get('start');
 					</a>
 					<div class="hover">
 
-						<a href="<?php echo $startup['website']; ?>" target="_blank"><h2>View Website</h2>
-						
+						<a href="<?php echo $startup['website']; ?>" target="_blank"><h2>View The Website</h2>
+						<p> gets exponentially better as time goes alongThis is quite clear
+						 if you look at the cost or capability of computerscameras etc. you have owned. 
+						</p>
 					</div>
 				</li>
 			<?php endif; ?>

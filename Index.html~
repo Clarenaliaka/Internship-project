@@ -1,0 +1,201 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+   <title> Nairobi</title>
+   <link href="assets/css/nomalize.css" rel="stylesheet" type="text/css"> 
+   <link href="assets/css/main.css" rel="stylesheet" type="text/css">   
+    <link <a href="fonts/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css" href=""></a>
+</head>
+<body>
+
+
+<div id="header">
+<!--start:logo-->
+
+<section id="logo">
+ 
+    <a href="#" class="logo"><img src="assets/Image/madein.png" alt="" /></a>
+		 <a href="want.html" class="apply">Want to Join?</a>
+		 
+</section>
+<!--start:logo1-->
+
+<section id="logo1">
+      <nav>
+
+          <span class="line">A collection of internet companies made with &hearts; in NRB</span>
+
+            <a href="#" class="list"><img src="assets/Image/icon-list.png" width="18" height="16"/></a>
+
+              <a href="#" class="grid"><img src="assets/Image/icon-grid.png" width="18" height="16" /></a>
+             <span class="subline"></br>Brought to you by NRB Tech Meetup</span>	
+</nav>
+</section>
+		
+</div>
+<!--end:header-->
+
+<article>
+	
+<ul class="startups clearfix">
+	<li>
+		<a href="#">
+		<img src="assets/Image/8.png" alt=""/>
+		</a>
+	</li>
+	<li>
+		<a href="#">
+			<img src="assets/Image/20x200.png" alt="" />
+		</a>
+	</li>
+	<li>
+		<a href="#">
+			<img src="assets/Image/AHALife.jpg" alt="" />
+		</a>
+	</li>
+	<li>
+	    <a href="#" class="hiring">
+	        <img src="assets/Image/hiring.png" alt=""/>
+	        </a>			
+		<a href="#">
+			<img src="assets/Image/accomplish.jpg" alt="" />
+		</a>
+	
+	</li>
+	<li>
+	
+	    <a href="#" class="hiring">
+	        <img src="assets/Image/hiring.png" alt=""/>
+	        </a>	
+		<a href="#">
+			<img src="assets/Image/1800.png" alt="" />
+		</a>
+	</li>
+	<li>
+		<a href="#">
+			<img src="assets/Image/1938.gif" alt="" />
+		</a>
+	</li>
+	<li>
+	<a href="#">
+			<img src="assets/Image/72lux.jpg" alt="" />
+		
+	</li>
+	<li>
+	  <a href="#" class="hiring">
+	        <img src="assets/Image/hiring.png" alt=""/>
+	        </a>
+
+		<a href="#">
+			<img src="assets/Image/acquaintable.png" alt="" />
+		</a>
+	</li>
+	<li>
+	    <a href="#" class="hiring">
+	        <img src="assets/Image/hiring.png" alt=""/>
+	        </a>
+		<a href="#">
+			<img src="assets/Image/AD60.png" alt="" />
+		</a>
+	</li>
+	<li>
+	<a href="#" class="hiring">
+	        <img src="assets/Image/hiring.png" alt=""/>
+	        </a>
+		<a href="#">
+			<img src="assets/Image/adafruit-industries.jpg" alt="" />
+		</a>
+	</li>
+	<li>
+		<a href="#">
+			<img src="assets/Image/adaptly.jpg" alt="" />
+		</a>
+	</li>
+	<li>
+	   <a href="#" class="hiring">
+	        <img src="assets/Image/hiring.png" alt=""/>
+	        </a>
+		<a href="#">
+			<img src="assets/Image/adcadeColor.jpg" alt="" />
+		</a>
+	</li>
+	<li>
+		<a href="#">
+			<img src="assets/Image/adMarketplace.png" alt="" />
+		</a>
+	</li>
+	<li>
+	   <a href="#" class="hiring">
+	        <img src="assets/Image/hiring.png" alt=""/>
+	        </a>
+		<a href="#">
+			<img src="assets/Image/admeld.png" alt="" />
+		</a>
+	</li>
+	<li>
+	   <a href="#" class="hiring">
+	        <img src="assets/Image/hiring.png" alt=""/>
+	        </a>
+		<a href="#">
+			<img src="assets/Image/adstruc.png" alt="" />
+		</a>
+	</li>
+	<li>
+		<a href="#">
+			<img src="assets/Image/AHALife.jpg" alt="" />
+		</a>
+	</li>
+	<li>
+		<a href="#">
+			<img src="assets/Image/AllazoHealth_logo.jpeg" alt="" />
+		</a>
+	</li>
+	<li>
+	   <a href="#" class="hiring">
+	        <img src="assets/Image/hiring.png" alt=""/>
+	    </a>
+		<a href="#">
+			<img src="assets/Image/AlldayEvery.png" alt="" />
+		</a>
+	</li>
+	<li>
+		<a href="#">
+			<img src="assets/Image/All_Out_logo.jpg" alt="" />
+		</a>
+	</li>
+	<li>
+		<a href="#">
+			<img src="assets/Image/Alley_logo2.png" alt="" />
+		</a>
+	</li>
+	<li>
+	   <a href="#" class="hiring">
+	        <img src="assets/Image/hiring.png" alt=""/>
+	        </a>
+		<a href="#">
+			<img src="assets/Image/Alchemy_logo.png" alt="" />
+		</a>
+	</li>
+	<li>
+	    <a href="#" class="hiring">
+	        <img src="assets/Image/hiring.png" alt=""/>
+	        </a>
+		<a href="#">
+			<img src="assets/Image/waywire.png" alt="" />
+		</a>
+	</li>
+	<li>
+		<a href="#">
+			<img src="assets/Image/20x200.png" alt="" />
+		</a>
+	</li>
+	<li>
+		<a href="#">
+			<img src="assets/Image/AHALife.jpg" alt="" />
+		</a>
+	</li>
+</ul>
+
+</article>
+</body>
+</html>
