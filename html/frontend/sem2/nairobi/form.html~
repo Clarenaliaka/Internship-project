@@ -1,0 +1,102 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>nairobi</title>
+<link href="assets/css/main.css" rel="stylesheet" type="text/css">   
+<link href="assets/css/nomalize.css" rel="stylesheet" type="text/css">
+<link href="assets/fonts/font-awesome-4.1.0/css/font-awesome.css" rel="stylesheet" type="text/css"> 
+<meta itemprop="description" content="Please answer the qualifying questions below. ">   
+</head>
+
+<div id="form">
+<body class="body" itemtype="" itemscope="" dir="ltr">
+
+    <meta content="Made in New York Submission" itemprop="name">
+    <meta content="Please answer the qualifying questions below. " itemprop="description">
+    <meta content="" itemprop=""></meta>
+    <meta content="" itemprop=""></meta>
+    
+    
+      
+         <h1 class="title">Made in New York Submission</h1>
+           
+           
+<div id="top">
+<div class="whitespace">Please answer the qualifying questions below. </div>
+ 
+   <span>* Required</span></div>
+       
+          
+<form action="" method="" id="">
+
+<div id="details">
+
+ <label><div class="required"></label> <br>Company Name<span>*</span>
+ <input name="" value="" type="text">
+<div class="text"><div class="ss-form-entry">
+<label
+for="entry_7"><br>Company Website
+<span>*</span></label>
+
+<br><input name="" value="" type="text">
+
+<div class="item"><div class="ss-form-entry">
+<label class="ss-q-title" for="entry_25"><br>Hiring? List Your Jobs/Careers Page: 
+<span>*</span></label>
+
+<br><input name="" value="" type="">
+
+<br>
+<label class="ss-q-title" for="entry_1">Contact First Name
+<span>*</span></label>
+
+<br><input name="" value="" type="text">
+
+<br><label class="ss-q-title" for="entry_4">Contact Last Name
+<span>*</span></label>
+
+<label class="help" for="entry_4"></label>
+<br><input name="" value="" type="text">
+
+<br><label class="ss-q-title" for="entry_6"><br>Contact Email Address 
+<span>*</span></label>
+
+<label class="ss-q-help" for="entry_6"></label>
+<br><input name="" value="" class=""  type="text">
+<br>
+
+<label class="ss-q-title" for="entry_8">Do you employ developers on your staff? 
+<span>*</span></label>
+</div></div></div></div></div>
+<label class="ss-q-help" for="entry_8"></label>
+<ul class="choices"><li class="choice-item">
+<label class="choice">
+<br><input name="" value="Yes" type="radio">
+Yes</label></li>
+
+ <li class="choice">
+ <label class="ss-choice-label"><input name="" value="No" type="radio">
+No</label></li>
+</ul>
+<br>             
+<input name="pageNumber" value="0" type="hidden">
+<input name="backupCache" value="" type="hidden">
+
+<input name="continue" value="Continue »" type="submit"></div>
+</div>
+   </form> 
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+

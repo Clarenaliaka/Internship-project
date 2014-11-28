@@ -1,0 +1,103 @@
+body{ background-color:rgba(153,0,153,1);
+      padding-top:4px;
+	 margin:auto;
+	  background-image:url(../Image/land.jpg);
+	 
+}
+
+
+#wrapper{width:1000px;
+height:800px;
+float:right;
+margin:80px 0 80px 0;         
+border:groove;
+		 }
+		 
+.panel{width:40%; 
+		 float:left; 
+		 height:300px;
+		 background-color:rgba(255,0,0,1);}
+		 
+		 #header h1{padding-right:5px;
+		 font-family:Verdana, Geneva, sans-serif;
+		 font:"Times New Roman", Times, serif;
+           font-size:24px;
+           font-weight:bolder;
+		  
+		 }
+		 #header h5{padding-right:5px;
+		 font-family:Verdana, Geneva, sans-serif;
+		 font:"Times New Roman", Times, serif;
+           font-size:18px;
+           font-weight:bolder;
+		   margin:5px 0 5px 0;
+		 }
+		 
+		 #header h6{padding-right:5px;
+		 font-family:Verdana, Geneva, sans-serif;
+		 font:"Times New Roman", Times, serif;
+           font-size:18px;
+           font-weight:bolder;
+		   margin:5px 0 5px 0;
+		 }
+		 
+		 #purple{background:purple;
+		 font-size:15px;
+		 border:groove;
+		 outline-color:rgba(0,255,0,1);
+		 font-family:"Lucida Sans Unicode", "Lucida Grande"            , sans-serif;
+		 margin:6px 0 6px 0;
+			  
+		 }
+		 
+		 #yellow{background:yellow;
+			  font-family:"Palatino Linotype", "Book               Antiqua", Palatino, serif;
+			  font-style:italic;
+			  margin:6px 0 6px 0;
+			  
+			  
+}
+#house{float:left;
+         border:groove;
+		 margin:4px 0 4px 0;}
+		 
+#girl{
+border-image-slice:fill;
+float:left;}
+
+     
+	 #content{background-size:cover;
+	     float:left;
+		 font-family:cursive;
+		 padding:5px;
+		 text-align:right;}
+		 
+	#footer ul{float:right;
+		 font-size:12px;
+		 margin:5px 0 5px 0;
+		 text-align:center;
+		 }
+    #footer 0l{float:left;
+		 font-size:9px;
+		 margin:5px 0 5px 0;
+		 text-align:;
+		 }
+		 
+
+			 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+

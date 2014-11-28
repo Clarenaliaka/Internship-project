@@ -1,0 +1,23 @@
+#wrapper{width:300px;
+         margin:0 auto;
+         border:solid 1px;
+         background-color:purple;
+         padding:10px;
+         border-radius:20px;
+         margin-top:50px;}
+
+#mobile{width:300px;
+       height:500px;
+       margin:0 auto;
+       border:solid 1px;
+       background-color:#000;
+       border-radius:20px;}
+
+p{color:grey;}
+
+form{width:300px;
+     margin-left:10px;
+     margin-top:10px;
+     font-size:12px;}
+
+

@@ -1,0 +1,117 @@
+body{ background-color:rgba(153,0,153,1);
+      padding-top:4px;
+	 margin:auto;
+	  background-image:url(../Image/land.jpg);
+	 
+}
+
+
+#wrapper{width:1000px;
+height:1000px;
+float:right;
+margin:0 auto 0 auto;         
+border:groove;
+		 }
+		 
+.panel{width:50%; 
+		 float:left; 
+		 height:500px;
+		 }
+		 
+ #header h1{padding-right:outo;
+		 font-family:Verdana, Geneva, sans-serif;
+		 font:"Times New Roman", Times, serif;
+           font-size:24px;
+           font-weight:bolder;
+		   border:groove;
+		   background-color:rgba(255,0,255,1);
+		  
+		 }
+ #header h5{padding-left:20px;
+		 font-family:Verdana, Geneva, sans-serif;
+		 font:"Times New Roman", Times, serif;
+           font-size:18px;
+           font-weight:bolder;
+		   margin:5px 0 5px 0;
+		   text-align:center;
+		   float:right;
+		   border:groove;
+		    background-color:rgba(204,51,0,1);
+		 }
+		 
+		 #header h6{padding-left:15px;
+		 font-family:Verdana, Geneva, sans-serif;
+		 font:"Times New Roman", Times, serif;
+           font-size:18px;
+           font-weight:bolder;
+		   margin:5px 0 5px 0;
+		   border:groove;
+		   float:right;
+		    background-color:rgba(204,51,0,1);
+		 }
+		 #header h7{padding-left:11px;
+		 font-family:Verdana, Geneva, sans-serif;
+		 font:"Times New Roman", Times, serif;
+           font-size:18px;
+           font-weight:bolder;
+		   margin:5px 0 5px 0;
+		   float:right;
+		   border:groove;
+		   background-color:rgba(204,51,0,1);
+		 }
+		 #beach{
+		 margin:6px 0 6px 0;
+		 float:right;
+			  
+		 }
+		 
+		
+	#house{float:left;
+		 margin:4px 0 4px 0;}
+		 
+
+
+     
+	 #content{background-size:cover;
+	     float:left;
+		 padding:5px;
+		 text-align:left;
+		 outline-color:rgba(0,255,0,1);
+		 font-family:"Trebuchet MS", Arial, Helvetica,           sans-serif;
+		 font-size:20px;
+		 text-outline:rgb(255,255,255);
+		 }
+ol {float:left;
+font:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+
+		 
+		 
+		 }
+		 
+	#footer{float:left;
+		 font-size:18px;
+		 padding-right:outo;
+		 
+		 
+		
+		 }
+    
+		 
+
+			 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+

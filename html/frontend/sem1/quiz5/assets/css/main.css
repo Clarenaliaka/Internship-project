@@ -1,0 +1,59 @@
+body{ background:purple;
+}
+ h1{background-color:pink;
+ text-align:center}
+p{ background-color:green}
+ #header{ border:groove;
+	border-width:thick;
+	size:landscape;
+	font-size: larger;
+	font-style:italic;
+	
+	
+}
+	
+#content
+{	font-size:40px;
+border-width:thin;
+margin-left:auto;
+	
+	font-style:inherit;
+}
+
+#footer
+p{background-color:#FFFBF0;}
+{   text-align:left;
+	border-width:thick;
+    font:large;
+    font-family:Georgia, "Times New Roman", Times, serif;
+    font-size:20px;
+    font-style:oblique;
+    border-style:double
+ }
+ 
+    ul{background:#CCFF00;
+    text-align:left;
+ }
+  
+      ol{border:dashed;
+         border-style:dotted;
+         font-style:italic;
+          font-size:20px;
+		  background-color:#7F1FFF;
+		 
+		  
+ }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+

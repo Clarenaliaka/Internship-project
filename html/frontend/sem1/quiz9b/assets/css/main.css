@@ -1,0 +1,85 @@
+body{ background-color:rgba(153,0,153,1);
+      padding-top:4px;
+      background-image:url(../Image/land.jpg);
+	 
+}
+
+
+#wrapper{width:800px;
+min-height:750px;
+margin:0 auto 0 auto;
+padding:10px;         
+border:groove;
+		 }
+		 
+      .panel{width:37.5%; 
+		    float:left; 
+		    height:550px;
+		    padding:10px-20px; 
+		 }
+		 p{float:right;}
+		 
+		 #header{background-color:rgb(204,102,102);
+		 padding-left:80px;
+		 
+		
+         }
+		 
+					
+		 nav ul li{display:inline;list-style:none;
+		 background-color:rgba(51,204,255,1);
+		 font-size:30px;
+		 padding-right:60px;
+		 border-style:outset;}
+		 
+		  #content{ margin:140px 0 140px 0;
+		            float:left;
+					background-color:rgba(102,102,102,1);
+					color:rgba(255,0,0,1);
+					height:300px;
+		            width:300px;
+		            padding:30px ;
+					font-size:24px;	
+					
+					
+					
+		           
+		              
+		 }
+		 
+		  #girl{margin:30px 0 30px 0;
+		         width:300px;
+		         padding-right:10px-15px;
+			     height:300px;
+		         float:left;
+		         background-color:rgb(255,204,255);
+				 
+		    
+		        }
+				
+		 #footer{float:left;
+		 font:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+		 font-weight:300px;
+		 border:dotted; border-color:rgba(0,0,0,1);
+		 font-size:24px;
+		 color:rgba(102,0,153,1);
+		 
+		 
+		 
+}
+		
+		 
+
+			 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

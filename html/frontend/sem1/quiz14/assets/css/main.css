@@ -1,0 +1,52 @@
+body{ background-color:rgba(153,0,153,1);
+      padding-top:4px;
+      background-image:url(../Image/land.jpg);
+	 
+}
+
+
+#wrapper{width:800px;
+        min-height:600px;
+        padding:30px;
+	    border:groove;
+		margin:30 auto;
+		background-color:rgba(204,204,255,1);
+		 
+}
+	
+	#form{background-color:rgba(255,0,0);
+	     color: #930;
+
+		  
+}
+	
+	#content{color:rgba(0,0,0,1);
+	font-size:20px;
+	
+	
+	
+	}
+	h1{ font-size:28px;
+	text-decoration:underline;
+	
+	}
+	
+	.pink{ font-size:22px;
+	text-decoration:underline;
+	color:purple;}
+
+
+	input{border:1px solid purple;}
+			 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

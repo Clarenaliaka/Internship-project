@@ -1,0 +1,108 @@
+body{ background-color:rgba(0, 0, 0, 0.65);padding-top:4px;
+    }
+
+#wrapper{max-width:1000px;
+min-height:700px;
+margin:0 auto 0 auto;       
+border:groove;
+border-radius:20px;
+background-color:#996633;
+text-align: center;
+}
+
+em{
+  color:#000000;text-decoration: underline;
+}
+
+h1{font-size: 30px;
+background-color:#666666;
+color: #00FFFF;
+text-decoration:underline;
+}
+
+h2{font-size:20px;text-decoration:underline;
+  }
+
+h3{font-size: 20px;text-decoration:underline;
+  }
+
+h4{font-size: 20px;text-decoration:underline;
+  }
+
+img{float:left;padding:30px;margin:auto;clear: both;
+   }
+
+section#content{padding: 40px;color:#00002B;
+      }
+
+section#facebook{
+width: 120px; 
+height: 120px;
+margin-right: 10px; 
+-moz-border-radius: 70px; 
+-webkit-border-radius: 70px; 
+border-radius: 70px;
+float:left;
+padding:auto;
+background-color:#0B0B61;
+clear: both;
+text-align: center;
+}
+
+#unorder{float: left;
+       }
+
+section#twitter{
+width: 120px; 
+height: 120px;
+margin-right: 10px; 
+-moz-border-radius: 70px; 
+-webkit-border-radius: 70px; 
+border-radius: 70px;
+float: left;
+padding:auto;
+background-color:#00BFFF;
+}
+
+section#google{
+width: 120px; 
+height: 120px;
+margin-right: 20px; 
+-moz-border-radius: 70px; 
+-webkit-border-radius: 70px; 
+border-radius: 70px;
+float: left;
+padding:auto;
+background-color:#FF3333;
+}
+
+section#story{
+margin: auto;
+padding: 40px;
+color: #3D0000;
+#7A9E99;#990000;
+clear: both;
+   }
+
+section#social{text-align: center;padding-left:200px;
+              }
+#footer p{font-size:15px;margin:30px 80px; 
+         }
+
+
+ 
+		
+	
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

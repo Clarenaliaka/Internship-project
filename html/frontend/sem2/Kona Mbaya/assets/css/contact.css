@@ -1,0 +1,114 @@
+    form    {
+background: -webkit-gradient(linear, bottom, left 175px, from(#CCCCCC), to(#EEEEEE));
+background: -moz-linear-gradient(bottom, #CCCCCC, #EEEEEE 175px);
+margin:auto;
+position:relative;
+width:500px;
+height:660px;
+font-family: Tahoma, Geneva, sans-serif;
+font-size: 14px;
+font-style: italic;
+line-height: 24px;
+font-weight: bold;
+color: red;
+text-decoration: none;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+padding:10px;
+border: 1px solid #999;
+border: inset 1px solid #333;
+-webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+-moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+input    {   border: 1px solid #006;
+    background: #ffc;
+width:300px;
+display:block;
+border: 1px solid #999;
+height: 25px;
+-webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+-moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+textarea#feedback {
+width:375px;
+height:150px;
+}
+textarea.message {
+display:block;
+}
+input.button {
+width:100px;
+position:absolute;
+right:20px;
+bottom:20px;
+background:red;
+color:#fff;
+font-family: Tahoma, Geneva, sans-serif;
+height:30px;
+-webkit-border-radius: 15px;
+-moz-border-radius: 15px;
+border-radius: 15px;
+border: 1p solid #999;
+}
+input.button:hover {
+background:#fff;
+color:red; cursor: pointer;
+}
+
+nav ul li {display: inline;
+            margin-left: 100px;
+            padding: 35px;
+            font-weight: bolder;
+            text-decoration: none;
+            font-size: 18px;
+            background-attachment: fixed;
+             margin-top: 9px;
+            
+           
+      }
+      #log{
+        float: left;
+        margin-left: 60px;
+        margin-top: -62px
+      }
+nav{
+  background-color: black;
+  height: 120px;
+  background-attachment: fixed;
+  border-radius: 2px
+}
+a {
+    color: #FFF;
+    display: inline-block;
+    text-decoration: none;
+    padding: 1.3em 2.7em;
+    margin: 0px 0.5em;
+    border-radius: 4px;
+    transition: all 0.3s ease 0s;
+    }
+ li{
+  margin-bottom: 740px
+ }
+
+ .pannel{
+ 	float: right;
+ 	margin-right: 20px;
+ 	margin-top: -697px
+ }
+ .map{
+  margin-left: 40px;
+
+}
+h2{
+	text-align: center;
+	font-family: italic;
+	font-size: 39px;
+}
+
+p i{
+	font-size: 25px;
+	margin-left: 40px;
+}

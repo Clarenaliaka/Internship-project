@@ -1,0 +1,184 @@
+body{ background-image: url(../Image/body.png);
+padding-top:4px;
+    }
+
+#wrapper{margin: 50px auto;
+max-width: 900px;
+min-height:800px;      
+background-color:#FFF;
+}
+
+#header{
+display: inline;
+list-style-type: none;
+float: right;
+clear: both;
+z-index: 10;
+margin-left: 50px;
+background: #666;
+position: fixed;
+padding-top: 5px;
+}
+#logo{
+	position: fixed;
+	z-index: 5;
+	top: 0;
+	width:5%;
+	background-color: #FFF;
+	color: #FFF;
+	font-size: 40px;
+	text-align: center;
+}
+
+#facebook{
+background-color: #000;
+float: right;
+color: #FFF;
+font-size: 20px;
+padding: 10px;
+margin: 10px;
+
+}
+
+#facebook:hover{
+background-color:#0101DF ;
+float: right;
+color: #FFF;
+font-size: 20px;
+padding: 10px;
+margin: 10px;
+
+}
+#twitter{
+background-color: #000;
+color: #FFF;
+float: right;
+font-size: 20px;
+padding: 10px;
+margin: 10px;
+
+}
+
+#twitter:hover{
+background-color: #48EDFF;
+float: right;
+color: #FFF;
+font-size: 20px;
+padding: 10px;
+margin: 10px;
+
+}
+
+
+#google{
+background-color: #000;
+color: #FFF;
+float: right;
+font-size: 20px;
+padding: 10px;
+margin: 10px;
+
+}
+
+#google:hover{
+background-color:#FF3333;
+float: right;
+color: #FFF;
+font-size: 10px;
+padding: 10px;
+margin: 10px;
+}
+
+
+
+#link{
+background-color: #000;
+color: #FFF;
+float: right;
+font-size: 20px;
+padding: 10px;
+margin: 10px;
+
+}
+
+#link:hover{
+background-color:#0489B1 ;
+float: right;
+color: #FFF;
+font-size: 20px;
+padding: 10px;
+margin: 10px;
+
+}
+
+
+
+#orange{
+	width: 20%;
+	height: 20%;
+
+	position: absolute;
+	left: 18%;
+    top: 30%;
+
+   
+
+    
+}
+#grey{
+	width: 20%;
+	height: 20%;
+	
+	position: absolute;
+	 top: 30%;
+	right: 10%;
+	
+}
+#black{
+	width: 30%;
+	height:30%;
+	position: relative;
+	top: 25%;
+	left: 20%;
+  z-index:5;
+}
+#purple{
+	
+
+	position: absolute;
+	left: 20%;
+	top: 100%;
+	bottom: 50px;
+}
+#green{
+
+	position: absolute;
+	right: 15%;
+	top: 100%;
+	
+}
+#footer{
+	background-color: #666;
+	position: fixed;
+	z-index: 5;
+	bottom: 0;
+   margin-left: 30px;
+	color: #FFF;
+	font-size: 20px;
+	width: 60%;
+	text-align: center;
+}
+
+nav ul li{
+display: inline;
+font-size:20px;
+border:thick; 
+background-color:#A4A4A4;
+border-radius:40px;
+margin:30px; 
+position: relative;
+z-index:5;
+
+top: -10px;
+
+}

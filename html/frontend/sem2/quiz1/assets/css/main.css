@@ -1,0 +1,117 @@
+body{ background-color:rgba(153,0,153,1);
+      padding-top:4px;
+      background-image:url(../Image/land.jpg);
+	 
+}
+
+
+#wrapper{width:750px;
+			min-height:700px;
+			margin:0 auto 0 auto;
+			padding:20px;         
+			border:groove;
+
+ }
+
+	
+	#purple{margin:0 auto 0 auto;
+	        width:180px;
+			float:left;
+			height:250px;
+			font-size:30px; 
+			border:groove;
+			text-align:center;
+			background-color:rgba(204,0,204,1);
+}
+		
+	#green{margin:0 auto 0 auto;
+	        width:180px;
+			float:left;
+			font-size:30px;
+			height:250px;  
+			border:groove;
+			text-align:center;
+			background-color:rgba(102,204,51,1);
+}
+	#grey{margin:0 auto 0 auto;
+	        width:180px;
+			float:left;
+			font-size:30px;
+			height:250px;    
+			border:groove;
+			text-align:center;
+			background-color:rgba(187,187,187,1);
+			
+}
+	#black{margin:0 auto 0 auto;
+	        width:180px;
+			float:left;
+			height:250px;
+			font-size:30px;    
+			border:groove;
+			text-align:center;
+			background-color:rgba(204,255,255,1);
+			
+			
+}
+	#white{margin:0 auto 0 auto; 
+	       width:366px;
+			height:180px;
+			float:left;
+			font-size:30px;  
+			border:groove;
+			text-align:center;
+			background-color:rgba(238,238,238,1);
+	}
+	#blue{margin:0 auto 0 auto;
+	       width:366px;
+		   float:left;
+			height:180px;
+			font-size:30px;    
+			border:groove;
+			text-align:center;
+			background-color:rgba(0,0,204,1);
+	}
+			
+
+	#pink{margin:0 auto 0 auto;
+	       width:366px;
+			height:180px;
+			float:left;
+			font-size:30px;    
+			border:groove;
+			text-align:center;
+			background-color:#CC0000;
+			
+}
+	#yellow{margin:0 auto 0 auto;
+	        width:366px;
+			float:left;
+			height:180px;   
+			border:groove;
+			font-size:30px;
+			text-align:center;
+			background-color:rgba(255,255,51,1);
+			
+			
+}
+	#footer{margin:10 auto 10 auto;
+	         font-size:30px;
+	        text-align:center;
+	
+	        
+}		
+	
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

@@ -1,0 +1,30 @@
+#wrapper{width:300px;
+         margin:0 auto;
+         border:solid 1px;
+         background-color:rgb(139,10,10);
+         padding:10px;
+         border-radius:20px;
+         margin-top:50px;}
+
+#mobile{width:300px;
+       height:500px;
+       margin:0 auto;
+       border:solid 1px;
+       background-color:#000;
+       border-radius:20px;}
+
+p{color:rgb(125,113,113);
+  text-align:center;}
+
+form{width:300px;
+     margin-left:10px;
+     margin-top:10px;
+     font-size:14px;}
+
+
+.hr{width:80%;
+    border:0%;
+    color:rgb(125,113,113); 
+
+
+}

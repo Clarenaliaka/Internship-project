@@ -1,0 +1,81 @@
+body{ background-color:rgba(153,0,153,1);
+      padding-top:4px;
+	 margin:auto;
+	  background-image:url(../Image/land.jpg);
+	 
+}
+
+
+#wrapper{width:700px;
+min-height:700px;
+margin:0 auto 0 auto;
+padding:10px;         
+border:groove;
+		 }
+		 
+      .panel{width:33.5%; 
+		    float:left; 
+		    height:700px;
+		    padding:10px-20px; 
+		 }
+ 
+		 #beach{ margin:10px 0 10px 0;
+		        float:left;
+		        background-color:rgb(204,0,51);
+		        height:358px;
+		        width:200px;
+		        padding:20px;
+				border-right:dotted
+				
+				
+		 
+			  
+		 }
+		 
+		
+	    #house{float:left;
+		   margin:10px 0 10px 0;
+		   background-color:rgb(0,255,255);
+		   width:200px;
+		   padding-right:30px;
+		   height:400px;
+		 }
+		 
+	#building{margin:10px 0 10px 0;
+		      width:200px;
+		      padding-right:10px-15px;
+			  height:400px;
+		      float:left;
+		      background-color:rgb(255,204,255);
+		    
+		        }
+		 
+		 #footer{margin:20px 0 20px 0;
+		         height:200px;
+		         float:left;
+		         width:665px;
+		          border:dotted;
+				  background-color:rgba(204,51,0,1);
+		          }
+		
+		 
+    
+		 
+
+			 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+

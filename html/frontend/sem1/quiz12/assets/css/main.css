@@ -1,0 +1,58 @@
+body{ background-color:rgba(153,0,153,1);
+      padding-top:4px;
+      background-image:url(../Image/land.jpg);
+	 
+}
+
+
+#wrapper{width:900px;
+			min-height:700px;
+			margin:0 auto 0 auto;
+			padding:20px;         
+			border:groove;
+
+ }
+	img{float:left;
+	padding-right:30px;
+		 
+		 
+}
+	h1{ font-size:24px;
+		 
+}
+	th,td{padding:5px;
+}
+	th{font-size:20px;
+
+
+} 
+
+	
+	#content{float:left;
+	font-weight:300px;                             													
+	font-size:30px;
+	font-family:"Monotype Corsiva";
+}
+	
+	.even{ background-color:rgba(51,51,51,1);
+	
+}	
+	.odd{ background-color:rgba(255,102,102,1);}   
+        
+	
+	.pink{ background-color:rgba(153,102,153,1);
+		               }
+
+			 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

@@ -1,0 +1,43 @@
+body{ background: white url(../Image/birth.jpg)  no-repeat;
+}
+ h1{background-color:purple}
+p{ background-color:#FF0000}
+ #header{
+	background-color:yellow;
+	border:groove;
+	border-width:thick;
+	size:landscape;
+	font-size: larger;
+}
+	
+#content
+{	font-size:36px;
+	background-color:#FF0000;
+	font-style:inherit;
+}
+
+#footer
+{
+	background:white;
+	border-width:thick;
+    font:large;
+    font-family:Georgia, "Times New Roman", Times, serif;
+    font-size:14px;
+    border-color:#00FF00;
+    font-style:oblique;
+    border-style:double
+ }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+

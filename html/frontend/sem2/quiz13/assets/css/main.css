@@ -1,0 +1,114 @@
+
+	body {	
+	background-color:#E8E8E8;
+	}
+
+#form{
+	width:702px;
+    height: 492px;
+	margin: auto;
+	margin-top: 10%;
+	margin-bottom:10%;
+	box-shadow: 0px 0px 4px #ccc;
+	
+	padding: 30px;
+	background-color: #fff;
+	text-align: center;
+}
+
+
+h3{
+color:#666;
+font-weight:normal;
+font-variant: normal; 
+font-size: 20px;
+padding-right: 60px;
+margin-top: 30px;
+	
+}
+
+h4{
+color:#666;
+font-weight:normal;
+font-variant: normal; 
+font-size: 20px;
+padding-right: 35%;
+	
+}
+
+p{
+color:#666;
+font-size: 12px;
+padding-left: 20px;
+
+}
+.login p{
+	margin-right: 25%;
+}
+.new{
+width: 50%;
+height: 70%;
+float: left;
+clear: both;
+}
+.login{
+width: 50%;
+height: 70%;
+float: right;
+
+}
+.user{
+	margin-top:0px; 
+	padding-top: 0px;
+}
+
+input[type=text]{
+	padding: 5px;
+
+}
+
+hr{
+	background-color: #9D9A9A;
+}
+
+i{
+	height: 10px;
+	width: 20px;
+	background-color: green;
+}
+
+ul{
+	list-style: none;
+}
+
+ul li{
+	padding-top: 10px;
+}
+
+#for{
+	color: #E8E8E8;
+}
+
+ .create{
+	height: 10%;
+	width: 50%;
+	float: left;
+	box-shadow: 0px 4px 6px  #ccc;
+	color: #000;
+	margin-top: 20px;
+	margin-left: 23%;
+}
+
+.log{
+	height: 10%;
+	width: 30%;
+	float: left;
+	box-shadow: 0px 4px 6px  #ccc;
+	color: #000;
+	margin-left: 12%;
+}
+
+hr{
+	color:#666; 
+	width: 80%;
+}

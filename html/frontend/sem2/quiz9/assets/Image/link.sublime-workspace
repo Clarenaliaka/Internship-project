@@ -1,0 +1,293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h6	Tag"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"m",
+				"margin-right"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"mr",
+				"margin"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/html/frontend/sem2/quiz9/Index.html",
+		"/var/www/html/frontend/sem2/quiz8/assets/css/nomalize.css",
+		"/var/www/html/frontend/sem2/quiz8/assets/css/main.css",
+		"/var/www/html/frontend/sem2/quiz8/Index.html",
+		"/var/www/html/frontend/sem2/quiz8/company information.html",
+		"/var/www/html/frontend/sem2/quiz7/Index.html",
+		"/var/www/html/frontend/sem2/quiz7/assets/css/main.css",
+		"/var/www/html/frontend/sem2/quiz7/assets/css/nomalize.css",
+		"/var/www/html/frontend/sem2/quiz6/assets/css/nomalize.css",
+		"/var/www/html/frontend/sem2/quiz6/assets/css/main.css",
+		"/var/www/html/frontend/sem2/quiz6/Index.html",
+		"/var/www/html/frontend/sem2/Index.html",
+		"/var/www/html/frontend/sem2/quiz5/assets/css/nomalize.css",
+		"/var/www/html/frontend/sem2/quiz5/assets/css/main.css",
+		"/var/www/html/frontend/sem2/quiz5/company information.html",
+		"/var/www/html/frontend/sem2/quiz5/services.html",
+		"/var/www/html/frontend/sem2/quiz5/about.html",
+		"/var/www/html/frontend/sem2/quiz5/Index.html",
+		"/var/www/html/frontend/sem2/quiz5/our services.html",
+		"/var/www/html/frontend/sem2/quiz2/assets/css/nomalize.css",
+		"/var/www/html/frontend/sem2/quiz4/assets/css/main.css",
+		"/var/www/html/frontend/sem2/quiz4/Index.html",
+		"/var/www/html/frontend/sem2/quiz4/me.html",
+		"/var/www/html/frontend/sem2/quiz4/about.html",
+		"/var/www/html/assignment-1/index.php",
+		"/var/www/html/assignment-1/database.php",
+		"/var/www/html/frontend/sem2/quiz2/assets/css/main.css",
+		"/var/www/html/frontend/sem2/quiz2/about.html",
+		"/var/www/html/frontend/sem2/quiz2/Index.html",
+		"/var/www/html/frontend/sem2/cle.html",
+		"/var/www/html/frontend/sem2/index.html",
+		"/var/www/clare",
+		"/var/www/html/loi.php",
+		"/etc/apache2/apache2.conf"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Protected"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "link.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

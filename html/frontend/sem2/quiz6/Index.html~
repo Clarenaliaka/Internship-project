@@ -1,0 +1,142 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>quiz6</title>
+<link href="assets/css/main.css" rel="stylesheet" type="text/css">
+<link href="assets/css/nomalize.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+<!--start:wrapper-->
+<div id="wrapper">
+<div id="header">
+<h1>Meet The Most Captivating people</h1>
+
+<!--end:header-->
+<table>
+<thead>
+<table id="sampletable" border="5" style="width:900px; height:400px;">
+<thead>
+  <tr>
+      <th>ID</th>
+      <th>Name</th>
+      <th>Title</th>
+      <th>Position</th>
+      <th>Grade</th>
+  </tr>
+      </thead>
+      <tbody>
+
+  <tr class="even" >
+      <td>26435689</t>
+      <td>Jane Gichuhi</td>
+      <td>Mrs</td>
+      <td>CEO</td>
+      <td>B+</td>
+  </tr>
+
+  <tr class="odd">
+      <td>31298035</td>
+      <td>Cynthia Munyiva</td>
+      <td>Mr</td>
+      <td>Coach</td>
+      <td>E</td>
+  </tr>
+
+  <tr class="odd">
+      <td>21673462</td>
+      <td>Loise Njoki</td>
+      <td>Miss</td>
+      <td>Soldier</td>
+      <td>C+</td>
+  </tr>
+
+
+  <tr class="even">
+      <td>25634416</td>
+      <td>Evans Kamau</td>
+      <td>Mr</td>
+      <td>Doctor</td>
+      <td>A</td>
+  </tr>
+
+
+  <tr class="odd">
+      <td>21435678</td>
+      <td>James Otieno</td>
+      <td>Mr</td>
+      <td>Security</td>
+      <td>D-</td>
+  </tr>
+
+
+  <tr class="even">
+      <td>27456382</td>
+      <td>Almarz Wambui</td>
+      <td>Miss</td>
+      <td>Lecturer</td>
+      <td>B</td>
+  </tr>
+
+  <tr class="odd">
+      <td>38765421</td>
+      <td>Samuel Wanjala</td>
+      <td>Mr</td>
+      <td>Journalist</td>
+      <td>A</td>
+  </tr>
+
+
+  <tr class="even">
+      <td>26919916</td>
+      <td>Clare Naliaka</td>
+      <td>Miss</td>
+      <td>DOP</td>
+      <td>B</td>
+  </tr>
+
+
+  <tr class="odd">
+      <td>31224345</td>
+      <td>Lilian Adhiambo</td>
+      <td>Mrs</td>
+      <td>Accountant</td>
+      <td>C+</td>
+  </tr>
+
+
+</tbody>
+</table>
+<br clear="all"/>
+
+
+<!--start:image-->
+
+  <section id="image">
+  <img src="assets/Image/nik.jpg" width="100" height="100">
+  <img src="assets/Image/spider.jpg" width="100" height="100">
+  <img src="assets/Image/niko2.jpg" width="100" height="100">
+  <img src="assets/Image/images.jpeg" width="100" height="100">
+  <img src="assets/Image/sony.jpeg" width="100" height="100">
+  <img src="assets/Image/ricoh.jpg" width="100" height="100">
+  </section>
+ <!--end:image-->
+
+<!--start:content-->
+     <section id="content">
+     <p>Jessops offers a fantastic selection of Nikon digital SLR cameras from across the Nikon range, so there is sure to be a digital SLR camera from Nikon to suit your requirements and your budget.For the serious Nikon digital SLR camera enthusiast we have the surprisingly portable Nikon D7000, packed with high-end image technologies it's perfect for any photographer who is ready to challenge themselves and improve their skills.Towards the top end of the Nikon SLR range is the <em>Nikon D800, this body-only digital SLR camera features an awesome 36.3 megapixel</em> sensor as well as a best-in-class 51-point AF system which delivers unprecedented levels of depth and detail camera performance.</p>
+       
+     </section>
+<!--end:content-->
+
+<!--start:footer-->
+     <section id="foot">
+       <p>@copyright get the information contact-info</p> 
+     </section>
+<!--end:footer-->
+
+</div>
+<!--end:wrapper--> 
+
+</body>
+</html>

@@ -1,0 +1,164 @@
+<DOCTYPE html>
+ <html>
+ <head>
+ <title>quiz11</title>
+ <link href="assets/css/main.css" rel="stylesheet" type="text/css">   
+ <link href="assets/css/nomalize.css" rel="stylesheet" type="text/css"> 
+<link href="assets/fonts/font-awesome-4.1.0/css/font-awesome.css" rel="stylesheet" type="text/css">    
+</head>
+<body>
+
+<!--start:wrapper-->
+<div id="wrapper">
+
+<div id="header" >
+<h1
+     <a href="Index.html">
+     <img src="assets/Image/logo.png" width="140" height="35">
+  
+     </a>
+     </h1>
+
+      <div id="menu">
+    <ul>
+    <li><a href="../">Home </li>
+    <li><a href="index.html">About</li>
+    <li><a href="index.html">Services</li>
+    <li><a href="index.html">Pricing</li>
+   
+    <li class="current"><a href="index.html">Download App</a></li>
+    </ul></a>
+</div>
+
+
+<div>
+ <h1>Create Something</h1>
+  <h2> A portfolio is a compilation of materials that exemplifies your beliefs, skills, qualifications, education, training, and experiences.</h2>
+
+   <a class="btn btn-primary" href="#"></a>
+ </div>
+ 
+<!--start:container-->
+
+ <div id="top">
+ <h2><span <i class="fa fa-pencil"></i></span> Get in touch</h2>
+   <p>Please complete the Form and we will get back to you</p>
+ </div>
+ <div id="bottom">
+   
+<form method="post" action="#" name="example"> <img src="assets/Image/form_background.png" width="30%" height="40%" > 
+
+<div class="form-row">               
+<input id="user_name" placeholder="Your name" class="text login_input" name="user_name" required="" type="text">
+<div id="clearfix"></div>
+</div>
+
+<div id="form-row">       
+<input id="user_email" placeholder="Your email"  class="text login_input" name="user_email" required="" type="email"> 
+<div id="clearfix"></div>
+
+<div id="form-row">  
+
+
+<textarea placeholder="Your message"></textarea>
+<div id="clearfix"></div>
+</div>
+
+<div id="form-row">          
+<input name="register" value="Sign up now!" class="btn " data-loading-text="Loading..." type="submit">
+<a href="#">Privacy Policy</a> <a href="#">Terms &amp; Conditions</a>
+
+<div id="clearfix"></div>
+</div>  
+
+</form>
+
+</div>
+</div>
+                    
+ <div id="shadow"></div>
+ <div id="clearfix"></div>
+ </div>
+ </div>
+</div>
+</div>
+<!--end:content-->
+<div id="row">
+ <div id="one">
+  <div id="cret">
+  <span class="glyph-item mega icon-screen-desktop" aria-hidden="true"></span>
+  <h3>Responsive</h3>
+  <p>Fusce fermentum placerat magna ac pharetra. Aliquam euismod elit non ipsum lacinia consectetur.</p>
+  </div>
+ </div> 
+
+</div>
+
+<!--start:footer-->
+
+<!--end:footer-->
+</div>
+</div>
+<!--end:wrapper-->
+</body>
+ </html>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

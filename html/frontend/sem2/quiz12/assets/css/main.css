@@ -1,0 +1,78 @@
+
+
+	body {
+		height:100%;
+		color: #777; 
+		font-family: 'Open Sans', sans-serif;
+		padding:0;
+		margin:0;
+		font-size:14px;
+		line-height:1.6em
+	}
+#wrapper{
+
+	width: 85%;
+	min-height: 100%;
+	margin: auto;
+	background-color: #797979;
+	
+}
+
+
+#logo{
+	text-align: center;
+}
+
+#title{
+	width: 100%;
+	height: 25%;
+	color:#dd4814;
+	padding-top: 30px;
+	background-attachment: fixed;
+    text-align:center;
+    background-image:url(../Image/image.jpg)
+    ;
+
+}
+h3{
+	padding-right: 50px;
+font-size: 15px;
+}
+#quote{
+	width: 92.5%;
+	height: 40%;
+	color: #000;
+	text-align:center;
+    padding: 40px;
+	background-color: #EDEDFF;
+}
+#content{
+	padding:40px;
+	background-attachment: fixed;
+	width: 92.5%;
+	height: 50%;
+	color: #000;
+	background-image:url(../Image/lands.jpg);
+	font-size: 15px;
+}
+	
+i{
+	font-size: 20px;
+	color: #FFF;
+	padding:20px;
+	text-align: center;
+	background-color: #000;
+	-moz-border-radius: 150px; 
+ 	-webkit-border-radius: 150px; 
+ 	border-radius: 120px;
+
+	
+}
+#footer{
+	width: 100%;
+	height: 15%;
+	padding-top: 20px;
+	background-color: #EDEDFF;
+	text-align: center;
+}
+

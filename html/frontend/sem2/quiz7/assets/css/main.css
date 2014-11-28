@@ -1,0 +1,163 @@
+body{ background-color:#666666;
+      padding-top:4px;
+     
+}
+
+
+#wrapper{max-width:1000px;
+	      
+			min-height:700px;
+			margin:0 auto 0 auto;
+			padding:20px;         
+			border:groove;
+			background-color:#FFFFFF;
+			-webkit-border-radius:5px;
+			-moz-border-radius:5px;
+			border-radius: 5px;
+			
+		}
+h1{ font-size:25px;
+		text-align: center;
+		background-color:#237FB4; 
+}
+
+section#content{
+	                           													
+	font-size:15px;
+	font-family:"Monotype Corsiva";
+	padding:20px; 
+}
+
+ section#girl li{display: inline;
+ 	width: 150px; 
+ 	height: 150px; 
+ 	/*background: #F5A9A9;*/
+ 	margin-right: 10px; 
+ 	-moz-border-radius: 90px; 
+ 	-webkit-border-radius: 90px; 
+ 	border-radius: 90px;
+ 	float: left;
+ 	padding: 10px;
+ 	text-align: center;      
+}
+
+section#name li{display: inline;
+ 	width: 150px; 
+ 	height: 150px; 
+ 	margin-right: 10px; 
+ 	-moz-border-radius: 90px; 
+ 	-webkit-border-radius: 90px; 
+ 	border-radius: 90px;
+ 	float: left;
+ 	padding: 10px;
+ 	text-align: center;       
+}
+
+#name li:nth-child(2){
+	background-image: url(../Image/jane.jpg);
+}
+
+
+section#name1 li{display: inline;
+ 	width: 150px; 
+ 	height: 150px; 
+ 	margin-right: 10px; 
+ 	-moz-border-radius: 90px; 
+ 	-webkit-border-radius: 90px; 
+ 	border-radius: 90px;
+ 	float: left;
+ 	padding: 10px;
+ 	text-align: center;
+ 	}
+ 	
+
+section#name2 li{display: inline;
+ 	width: 150px; 
+ 	height: 150px; 
+ 	
+ 	margin-right: 10px; 
+ 	-moz-border-radius: 90px; 
+ 	-webkit-border-radius: 90px; 
+ 	border-radius: 90px;
+ 	float: left;
+ 	padding: 10px;
+ 	text-align: center;
+}
+
+#name2 li:nth-child(2){
+	background-image: url(../Image/loise.jpg);
+
+ 	}
+ 	
+section#name3 li{display: inline;
+    width: 150px; 
+ 	height: 150px;
+ 	margin-right: 10px; 
+ 	-moz-border-radius: 90px; 
+ 	-webkit-border-radius: 90px; 
+ 	border-radius: 90px;
+ 	float: left;
+ 	padding:10px;
+ 	text-align: center;
+ }
+
+li p:nth-last-child(2n){
+   color: #CC0099;
+}
+ 
+ li:nth-child(-n+5){
+  background-color:#4A5F40;
+ 
+ }
+
+ #name3 li p:first-of-type{
+   color: red;
+ }
+
+ li:nth-child(2n+2) { 
+ 	background-color: #666666;}
+
+/* li:nth-child(-3n+5) { 
+ 	background-color: #660;}*/
+
+ 
+ /*li:nth-last-child(2n) { 
+ 	background-color: #6B3232;}*/
+
+li:nth-of-type(1){
+	background-color: #CA7070;
+}
+
+ em:only-child{
+   background-color:#FA8258;
+   border:groove;
+   border-radius: 20px;
+ }
+
+  li p:first-line{
+   text-transform: uppercase;
+ }
+
+
+section#foot{
+	font-size: 10px;
+	text-align: center;
+	border:groove;
+	padding: 2px;
+}
+
+
+	
+			 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

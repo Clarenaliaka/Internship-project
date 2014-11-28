@@ -1,0 +1,81 @@
+body{
+	background: #fbfbfb url(../img/bg.png) repeat;
+	font-size: 12px;
+	color: #666;
+}
+
+
+
+.table_cont{
+	width: 470px;
+	margin: 50px auto;
+	background-color: #fff;
+	-webkit-border-radius: 3px 3px 3px 3px;
+	border-radius: 3px 3px 3px 3px;
+	border:1px solid #d3d3d3;
+	-webkit-box-shadow: 0 1px 2px 0 rgba(0,0,0,0.2);
+	box-shadow: 0 1px 2px 0 rgba(0,0,0,0.2);
+}
+
+.table_cont thead tr td{
+	border-bottom: 1px solid #d3d3d3;
+}
+
+
+.table_cont thead tr .header_element{
+	background-color: #eaebec;
+	padding: 23px 25px;
+	text-shadow: 0 1px 0 #FFFFFF;
+	-webkit-box-shadow:inset 0 1px 0 0 rgba(255,255,255, 0.5);
+box-shadow:inset 0 1px 0 0 rgba(255,255,255, 0.5);
+}
+
+.table_cont thead tr td:first-child .header_element{
+	-webkit-border-radius: 4px 0px 0 0;
+	border-radius: 4px 0px 0 0;
+
+}
+
+.table_cont thead tr td:last-child .header_element{
+	-webkit-border-radius: 0px 4px 0 0;
+	border-radius: 0px 4px 0 0;
+
+}
+
+.table_cont thead tr td{
+	padding: 0px 0px;
+	font-weight: bold;
+
+}
+
+
+.table_cont tr {
+	border-bottom: 1px solid #d3d3d3;
+}
+
+.table_cont tr:last-child {
+	border-bottom: none;
+}
+
+.table_cont tr td{
+	padding: 17px 25px;
+}
+
+
+.table_cont tbody tr:nth-child(even){
+	background-color: rgba(0,0,0,0.03);
+}
+
+.table_cont tbody tr td{
+	border-right: 1px solid #d3d3d3;
+}
+
+.table_cont tbody tr td:last-child{
+	border-right: none;
+}
+
+.table_cont tbody tr td:nth-child(n+2){
+	text-align: center;
+}
+
+

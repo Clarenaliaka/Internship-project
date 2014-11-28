@@ -1,0 +1,43 @@
+body{
+      background-image:url(../Image/land.jpg);
+	 
+}
+
+
+#wrapper{width:1000px;
+margin:0 auto;
+min-height:500px;
+border:1px solid #FFF;
+
+ }
+		
+		h1{font-size:18px;}
+		  
+     
+		#people{ float:left;
+		margin-rigt:0 auto;
+		padding-right:30px auto;
+		border:groove;
+		}
+		
+		
+		#child{ float:left;
+		margin-left:0 auto;
+		border:groove;
+		padding-right:10px auto;}
+		
+		#family{ float:left;
+		border:groove;
+		padding-right:10px auto;
+		margin:0 auto;
+		
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

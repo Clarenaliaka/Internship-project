@@ -1,0 +1,113 @@
+body{ background-color:#660;
+      padding-top:4px;
+      
+}
+
+
+#wrapper{width:900px;
+min-height:700px;
+margin:0 auto 0 auto;       
+border:groove;
+border-radius:20px;
+background-color:#FFF;
+text-align: center;
+}
+
+
+ section#slogan  h2{text-align: center;
+ 	 margin:30px 80px;              
+ 	font-size: 30px;
+ 	 background-image:url(../Image/mug.jpg);
+ 	 background-color:#660;
+ 	  color: #FFF;
+    height:150px;
+    width:750px;
+    border: groove;
+    text-align:center;
+    padding-top:30px; 
+    border-radius:25px;  }
+
+    h2{
+      font-size:30px 
+    }
+    h1{font-size: 30px;
+        background-color:#666666;}
+
+ 
+
+   section#content h3{
+  	padding-top:30px;
+ 	font-size:20px;
+ 	
+ }
+
+ 
+
+ section#content{
+ 	margin:30px 80px;
+ 	font-size:15px;
+   
+
+ }
+
+ section#social ul li{
+  display:inline;
+  padding:10px;
+   }
+
+   #social{
+    padding-top:10px; 
+    border:groove; 
+    margin:30px 100px;
+   }
+
+ nav ul li{
+display: inline;
+font-size:20px;
+border:thick; 
+background-color:#A4A4A4;
+border-radius:40px;
+margin:30px;    
+}
+
+#camera{
+  margin:30px 5px;
+}
+
+
+
+
+#footer p{
+     font-size:15px;
+     border:groove;
+     margin:30px 80px; 
+ }
+
+
+ #two img{
+  float:left;
+  padding-top:20px;
+  
+ 
+ }
+
+
+	        
+			 
+	
+	        
+		
+	
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

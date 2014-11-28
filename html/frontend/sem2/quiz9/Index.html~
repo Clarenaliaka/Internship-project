@@ -1,0 +1,69 @@
+<DOCTYPE html>
+ <html>
+ <head>
+ <title>quiz9</title>
+ <link href="assets/css/main.css" rel="stylesheet" type="text/css">   
+ <link href="assets/css/nomalize.css" rel="stylesheet" type="text/css">   
+</head>
+<body>
+ 
+<!--start:wrapper-->
+<div id="wrapper">
+<section id="header">
+
+</section>
+
+<!--start:social-->
+  <section id="social">
+  <section id="facebook">
+  <a href="https://www.facebook.com"</a>
+  <img src="assets/Image/facebook.png" width="30" height="30">
+  </section>
+
+  <section id ="twitter">
+  <a href="https://twitter.com/"</a>
+  <img src="assets/Image/twitter.gif" width="20" height="20">
+  </section>
+
+  <section id="google">
+  <a href="https://plus.google.com/"</a>
+  <img src="assets/Image/go.png" width="20" height="20">
+  </section>
+
+<section id="link">
+  <a href="https://www.linkedin.com/"</a>
+  <img src="assets/Image/link.png" width="20" height="20">
+  </section>
+  </section>
+
+<!--end:social-->
+<br clear="all">
+
+<!--start:clare-->
+<section id="clare">
+<img src="assets/Image/sm.jpg" width="180" height="140"> 
+ <h1>Clare Naliaka </h1>
+<p>mobile and front end developer</p>
+ <hr>
+</section>
+<!--end:clare-->
+
+<br clear="all">
+
+</section>
+<!--end:wrapper-->
+</body>
+ </html>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

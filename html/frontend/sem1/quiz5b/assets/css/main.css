@@ -1,0 +1,41 @@
+body{ background-color:rgba(153,0,153,1);
+      padding-top:4px;
+	 margin:auto;
+	  background-image:url(../Image/land.jpg);
+	 
+}
+#wrapper{width:900px;
+         margin-left:auto;
+		 margin-right:auto;
+		 border:groove;
+		 }
+		 .panel{width:50%; float:left; height:200px}
+		 #purple{background:purple;
+		 font-size:18px;
+		 border:groove;
+		 outline-color:rgba(0,255,0,1);
+		 font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;}
+		 #yellow{background:yellow;text-decoration:blink;
+			  font-family:"Palatino Linotype", "Book               Antiqua", Palatino, serif;
+			  border:dotted;
+			 
+		 
+		  
+ }
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
